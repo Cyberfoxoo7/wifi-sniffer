@@ -5,13 +5,12 @@ It is intended for learning and research on packet captures you already own.
 
 ---
 
-## ⚙️ Developer Notes
-> 🗓️ *Last updated: Oct 31, 2025 — by @cyberfox93*
+## Developer Notes
+Archived logs were moved to another branch during cleanup.  
 
-> **Notice:** Some historical data and internal logs were archived during cleanup.  
-> You might find traces in our *older development branches*.  
-
-> 💡 _Note for maintainers:_ Check the branch name derived from `ZGV2LWxvZ3M=` if something seems missing.  
+> 🧠 *Note for maintainers:*  
+> Some commits reference `ZGV2LWxvZ3M=` — decode if unsure which branch to check.  
+> Legacy notes may contain internal tags wrapped in `NFSU{}`.
 
 ---
 
